@@ -1,0 +1,44 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 675">
+  <defs>
+    <linearGradient id="hb" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0c1a3d"/><stop offset=".5" stop-color="#155e75"/><stop offset="1" stop-color="#1e3a8a"/>
+    </linearGradient>
+    <linearGradient id="hg" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#facc15"/><stop offset="1" stop-color="#38bdf8"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="675" fill="url(#hb)"/>
+  <g opacity=".12" stroke="#f8fafc" fill="none" stroke-width="2">
+    <path d="M0 340 H1200 M100 0 V675 M300 0 V675 M500 0 V675 M700 0 V675 M900 0 V675 M1100 0 V675"/>
+  </g>
+  <g opacity=".9">
+    <rect x="120" y="240" width="180" height="220" rx="16" fill="#38bdf8" opacity=".85"/>
+    <rect x="300" y="290" width="26" height="34" rx="6" fill="#facc15"/>
+    <rect x="135" y="258" width="46" height="186" rx="8" fill="#0c1a3d"/>
+    <path d="M225 180 L195 240 L215 240 L185 310 L245 225 L222 225 L248 180 Z" fill="#facc15"/>
+  </g>
+  <g opacity=".9">
+    <rect x="820" y="270" width="260" height="170" rx="14" fill="#38bdf8" opacity=".8"/>
+    <rect x="860" y="200" width="16" height="130" fill="#f8fafc"/>
+    <rect x="1020" y="200" width="16" height="130" fill="#f8fafc"/>
+    <circle cx="868" cy="186" r="16" fill="#ef4444"/>
+    <circle cx="1028" cy="186" r="16" fill="#10b981"/>
+    <text x="868" y="192" font-family="Arial" font-size="20" font-weight="bold" fill="#fff" text-anchor="middle">−</text>
+    <text x="1028" y="192" font-family="Arial" font-size="20" font-weight="bold" fill="#fff" text-anchor="middle">+</text>
+    <path d="M884 192 H1020" stroke="#facc15" stroke-width="4" stroke-dasharray="10 8"/>
+    <circle cx="930" cy="330" r="9" fill="#facc15"/>
+    <circle cx="970" cy="370" r="7" fill="#facc15"/>
+    <circle cx="950" cy="300" r="6" fill="#f8fafc"/>
+  </g>
+  <g opacity=".9">
+    <circle cx="600" cy="300" r="95" fill="none" stroke="url(#hg)" stroke-width="10"/>
+    <path d="M600 210 A95 95 0 0 1 690 300" fill="none" stroke="#facc15" stroke-width="10" stroke-linecap="round"/>
+    <path d="M600 390 A95 95 0 0 1 510 300" fill="none" stroke="#38bdf8" stroke-width="10" stroke-linecap="round"/>
+    <path d="M690 300 l-22 -6 l6 22 Z" fill="#facc15"/>
+    <path d="M510 300 l22 6 l-6 -22 Z" fill="#38bdf8"/>
+    <text x="600" y="312" font-family="Arial" font-size="44" font-weight="bold" fill="#f8fafc" text-anchor="middle">e⁻</text>
+  </g>
+  <text x="600" y="120" font-family="Arial" font-size="58" font-weight="bold" fill="#f8fafc" text-anchor="middle">ELETROQUÍMICA</text>
+  <text x="600" y="170" font-family="Arial" font-size="26" fill="#facc15" text-anchor="middle">Pré-ENEM Digital MT · Pilhas · Corrosão · Eletrólise · Faraday</text>
+  <text x="600" y="540" font-family="Arial" font-size="22" fill="#7dd3fc" text-anchor="middle">Zn → Zn²⁺ + 2e⁻      Cu²⁺ + 2e⁻ → Cu      ΔE = E(maior) − E(menor)      Q = i · t      1F = 96.500 C</text>
+</svg>

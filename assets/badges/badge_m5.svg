@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200">
+  <defs>
+    <linearGradient id="bg5" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#1e3a8a"/><stop offset="1" stop-color="#0c1a3d"/>
+    </linearGradient>
+    <linearGradient id="gold5" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#facc15"/><stop offset="1" stop-color="#d97706"/>
+    </linearGradient>
+    <linearGradient id="silver5" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#f8fafc"/><stop offset="1" stop-color="#94a3b8"/>
+    </linearGradient>
+  </defs>
+  <polygon points="100,8 178,54 178,146 100,192 22,146 22,54" fill="url(#bg5)" stroke="url(#gold5)" stroke-width="6"/>
+  <circle cx="100" cy="98" r="26" fill="none" stroke="url(#silver5)" stroke-width="10"/>
+  <polygon points="100,58 110,74 90,74" fill="#38bdf8" stroke="#0c1a3d" stroke-width="2"/>
+  <path d="M62 132 l10 -6 M138 132 l-10 -6" stroke="#facc15" stroke-width="4" stroke-linecap="round"/>
+  <text x="100" y="160" font-family="Arial" font-size="14" font-weight="bold" fill="#facc15" text-anchor="middle">FARADAY</text>
+</svg>

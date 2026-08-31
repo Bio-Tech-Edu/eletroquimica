@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200">
+  <defs>
+    <linearGradient id="bg2" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#1e3a8a"/><stop offset="1" stop-color="#0c1a3d"/>
+    </linearGradient>
+    <linearGradient id="gold2" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#facc15"/><stop offset="1" stop-color="#d97706"/>
+    </linearGradient>
+  </defs>
+  <polygon points="100,8 178,54 178,146 100,192 22,146 22,54" fill="url(#bg2)" stroke="url(#gold2)" stroke-width="6"/>
+  <circle cx="100" cy="88" r="34" fill="#f8fafc" stroke="#0c1a3d" stroke-width="3"/>
+  <path d="M100 62 A26 26 0 0 1 126 88 L100 88 Z" fill="#ef4444"/>
+  <path d="M100 88 L78 105" stroke="#0c1a3d" stroke-width="4" stroke-linecap="round"/>
+  <circle cx="100" cy="88" r="5" fill="#0c1a3d"/>
+  <rect x="88" y="126" width="24" height="18" rx="4" fill="#38bdf8"/>
+  <text x="100" y="158" font-family="Arial" font-size="15" font-weight="bold" fill="#facc15" text-anchor="middle">DDP</text>
+</svg>
