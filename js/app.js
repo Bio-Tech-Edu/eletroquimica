@@ -60,7 +60,7 @@ const mentors = [
   {
     id:"yvonne", name:"Dra. Yvonne Mascarenhas",
     role:"Física · USP · Cristalografia",
-    img:"assets/avatars/yvonne_mascarenhas.svg",
+    img:"assets/avatars/yvonne_mascarenhas.png",
     bio:"Física paulista pioneira, fundadora da cristalografia no Brasil (USP São Carlos). Dedicou a vida à ciência e à formação de pesquisadores.",
     quotes:[
       "Faraday quantificou tudo: 1 mol de elétrons = 96.500 Coulombs. Com isso calculamos massa, tempo e corrente!",
